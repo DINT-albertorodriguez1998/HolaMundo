@@ -19,6 +19,7 @@
         <TextBox x:Name="NombreTextBox" HorizontalAlignment="Left" Height="23" Margin="175,211,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="270" RenderTransformOrigin="0.541,0.391"/>
         <Label x:Name="NombreTextBlock" Content="Nombre:" HorizontalAlignment="Left" Margin="175,170,0,0" VerticalAlignment="Top" Width="69"/>
         <Button x:Name="AceptarButton" Content="Aceptar&#xD;&#xA;" HorizontalAlignment="Left" Margin="485,211,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="AceptarButton_Click"/>
+        <Button Content="Limpiar&#xD;&#xA;&#xD;&#xA;" HorizontalAlignment="Left" Margin="593,211,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="LimpiarButton_Click"/>
 
     </Grid>
 </Window>
