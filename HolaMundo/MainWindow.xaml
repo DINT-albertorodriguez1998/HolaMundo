@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HolaMundo"
         mc:Ignorable="d"
-        Title="Hola Mundo" Height="450" Width="800">
+        Title="Hola Mundo" Height="450" Width="800" Icon="globe_world_earth.ico">
     <Grid RenderTransformOrigin="0.665,0.549">
         <TextBlock x:Name="SaludoTextBlock" HorizontalAlignment="Left" Margin="170,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="506" FontSize="72" Foreground="#FFD10C0C">
             <TextBlock.RenderTransform>
